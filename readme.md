@@ -84,7 +84,7 @@ News queries now run Gemini Grounded Search and DuckDuckGo news simultaneously i
 
 ## 🗺️ Mark Roadmap
 
-| JARVIS | Focus |VERSION
+| JARVIS | Focus | VERSION
 |---|---|
 | **XLVIII** | Instant interrupt · parallel news · two-phase briefing · exponential backoff · vision cooldown |
 | **XLIX** | Auto-start · clipboard intelligence · assistant customization |
