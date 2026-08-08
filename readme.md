@@ -1,4 +1,4 @@
-# ⚙️ MARK L (50)
+# ⚙️ JARVIS AI 
 ### The Ultimate Cross-Platform Personal AI Assistant — By CodeSpark
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
@@ -9,7 +9,7 @@ A real-time voice AI that can hear, see, understand, and control your computer �
 
 ## ✨ Overview
 
-MARK L is where the assistant stops being a tool and starts being a presence. It remembers yesterday's conversation, watches the topics you care about, and speaks first when it has something worth saying. The goal of this build was continuity — JARVIS should feel like it never fully left, even after you close it.
+JARVIS  is where the assistant stops being a tool and starts being a presence. It remembers yesterday's conversation, watches the topics you care about, and speaks first when it has something worth saying. The goal of this build was continuity — JARVIS should feel like it never fully left, even after you close it.
 
 It's not just an assistant — it's an extension of your digital life.
 
@@ -51,7 +51,7 @@ It's not just an assistant — it's an extension of your digital life.
 
 ---
 
-## 🆕 What's New in Mark L
+## 🆕 What's New in JARVIS
 
 ### 🗓️ Session Memory — JARVIS Remembers Yesterday
 At the end of every session, JARVIS generates a 1-2 sentence summary of what was discussed and saves it to memory. The next morning, it's mentioned naturally in the briefing:
@@ -84,7 +84,7 @@ News queries now run Gemini Grounded Search and DuckDuckGo news simultaneously i
 
 ## 🗺️ Mark Roadmap
 
-| Mark | Focus |
+| JARVIS | Focus |VERSION
 |---|---|
 | **XLVIII** | Instant interrupt · parallel news · two-phase briefing · exponential backoff · vision cooldown |
 | **XLIX** | Auto-start · clipboard intelligence · assistant customization |
@@ -93,13 +93,7 @@ News queries now run Gemini Grounded Search and DuckDuckGo news simultaneously i
 
 ---
 
-## ⚡ Quick Start
 
-```bash
-git clone https://github.com/FatihMakes/Mark-L.git
-cd Mark-L
-pip install -r requirements.txt
-python main.py
 ```
 
 > ⚠️ **Installation Note:** Some OS-specific dependencies are not bundled in `requirements.txt` to keep the repo lightweight. If you hit a `ModuleNotFoundError`, install the missing package with `pip install <module_name>`.
@@ -120,7 +114,7 @@ python main.py
 ## 🗂️ Project Structure
 
 ```
-Mark L/
+MY_JARVIS_AI/
 ├── main.py                   # Core loop — Gemini Live session, audio I/O, tool dispatch
 ├── ui.py                     # PyQt6 HUD — waveform, log panel, interrupt button, camera feed
 ├── setup.py                  # First-run configuration wizard
@@ -168,10 +162,6 @@ Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licens
 Engineered by a developer building a real-world JARVIS-style assistant.
 ⭐ **Star the repository to support the journey to Mark 100.**
 
-| Platform | Link |
-| --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
 
 
 start cmd 
